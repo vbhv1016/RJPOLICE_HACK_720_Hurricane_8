@@ -1,1 +1,1 @@
-# RJPOLICE_HACK_720_Hurricane_8
+# Identify the images as real or fake using state-of-the-art AI models
